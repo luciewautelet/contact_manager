@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="action_settings">Settings</string>
+
+<!--activity add contact !-->
+    <string name="add_title">New contact</string>
+    <string name="add_name">Name  </string>
+    <string name="add_phone_home">Home phone</string>
+    <string name="add_phone_mobile">Mobile phone</string>
+    <string name="add_email">email</string>
+</resources>
